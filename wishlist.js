@@ -1,0 +1,2 @@
+import{r as t,o as e,a as n,b as r,c,d,g as l,W as m,e as k,f as p,u as g}from"./assets/handlers-BH2khJKp.js";import{i as u}from"./assets/vendor-4yCzdkXl.js";async function C(){try{const a=l(m).map(i=>k(i)),o=await Promise.all(a);p(o),g()}catch{u.error({message:"Something went wrong. Please try again.",position:"topRight"})}}C();t.products.addEventListener("click",e);t.modalCloseBtn.addEventListener("click",n);t.modal.addEventListener("click",r);t.wishlistBtn.addEventListener("click",c);t.cartBtn.addEventListener("click",d);
+//# sourceMappingURL=wishlist.js.map
